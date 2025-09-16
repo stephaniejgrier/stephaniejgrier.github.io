@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### R Projects 
 
-[Project 1 Title](/sample_page)
+[Google Analaytics Capstone:Yelp Data Informs QSR Launch](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
