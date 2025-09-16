@@ -5,7 +5,7 @@
 ### R Projects 
 
 [Google Analaytics Capstone:Yelp Data Informs QSR Launch](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sample_Page_Yelp_4_QSR"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
