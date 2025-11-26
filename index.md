@@ -7,7 +7,6 @@
 [Google Analaytics Capstone:Yelp Data Informs QSR Launch](/sample_page)
 <img src="images/Sample_Page_Yelp_4_QSR"/>
 
----
 [Shiny app Pearson Correlatoion Heatmap]( https://o8hxxy-stephanie-grier.shinyapps.io/final_correlation_app/)
 
 
