@@ -8,8 +8,8 @@
 <img src="images/Sample_Page_Yelp_4_QSR"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shiny app Pearson Correlatoion Heatmap]( https://o8hxxy-stephanie-grier.shinyapps.io/final_correlation_app/)
+
 
 ---
 [Project 3 Title](http://example.com/)
